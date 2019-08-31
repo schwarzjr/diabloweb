@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/diabloweb/precache-manifest.0f2c9e3676095930136996bcca18348e.js"
+  "/diabloweb/precache-manifest.0788f49b4436e4c773d356ca45f27309.js"
 );
 
 self.addEventListener('message', (event) => {
