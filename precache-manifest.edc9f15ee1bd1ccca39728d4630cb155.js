@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62b1518e99e76fd380ff09bd56a6086c",
-    "url": "/diabloweb/06c7bc513d67cd48c316.worker.js"
+    "revision": "0c3ce1490408f68a9206bae1981c87d9",
+    "url": "/diabloweb/d769587d8dbb1e0c0cf5.worker.js"
   },
   {
-    "revision": "60e772cb1a5e109ccdfe51a29d1d6c39",
+    "revision": "236c0dbf093a93d93d0952ee889b5e3f",
     "url": "/diabloweb/index.html"
   },
   {
-    "revision": "fd43475293b9b8a52869",
+    "revision": "567b711413e0b42cf7a6",
     "url": "/diabloweb/static/css/main.cfd3b862.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diabloweb/static/js/5.529203cb.chunk.js"
   },
   {
-    "revision": "fd43475293b9b8a52869",
-    "url": "/diabloweb/static/js/main.6092ba0f.chunk.js"
+    "revision": "567b711413e0b42cf7a6",
+    "url": "/diabloweb/static/js/main.bb6ee14f.chunk.js"
   },
   {
     "revision": "077fe45e700d7971de0b",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diabloweb/static/js/storage.bf47d273.chunk.js"
   },
   {
-    "revision": "3991174f176be0e0ac0505f7a6d9e420",
-    "url": "/diabloweb/static/media/Diablo.3991174f.wasm"
+    "revision": "859547f78173e8d4384586d0686122c8",
+    "url": "/diabloweb/static/media/Diablo.859547f7.wasm"
   },
   {
-    "revision": "32acbb3960e9e84cc8a85526e8fef6fe",
-    "url": "/diabloweb/static/media/DiabloSpawn.32acbb39.wasm"
+    "revision": "dabbb761e5536d74a66715e2b3a83165",
+    "url": "/diabloweb/static/media/DiabloSpawn.dabbb761.wasm"
   },
   {
     "revision": "929662bf2b0783547e618986e729c186",
